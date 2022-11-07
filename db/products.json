@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "name":"Air max",
+        "price":1000,
+        "sku":"air-max-1",
+        "stock":10
+    },
+    {
+        "id":2,
+        "name":"Air max",
+        "price":1000,
+        "sku":"air-max-1",
+        "stock":10
+    }
+]
